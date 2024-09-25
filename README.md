@@ -2,8 +2,11 @@
 # EduVista21
 
 EduVista21 is an innovative e-learning platform designed to bridge the digital divide and provide equitable access to quality education for students regardless of their geographical location or socioeconomic status.
-## Contributor
--[Vootukuru Jyotheesh](@Jyotheeshgoud)
+## Contributors
+
+Special thanks to the following contributors:
+
+- [@Jyotheeshgoud](https://github.com/Jyotheeshgoud) for [contributions](https://github.com/Jyotheeshgoud) to the project.
 
 ## Table of Contents
 
